@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="Local" key="NOT_GATE-target"/>
+	<item value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;Digilent Zed 210248B4A80B&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-Zed-210248B4A80B-4ba00477-0&quot;,&quot;3&quot;:&quot;jsn-Zed-210248B4A80B-23727093-0&quot;}}]}" key="devices_info_Local"/>
+	<item value="false" key="NOT_GATE-partial_bit"/>
+	<item value="_ide/bitstream/design_1_wrapper.bit" key="NOT_GATE-bitFile"/>
+	<item value="NOT_GATE" key="programfpga.sdxproject"/>
+	<item value="Auto Detect" key="NOT_GATE-device"/>
+	<item value="false" key="NOT_GATE-skip_rev_check"/>
+	<item value="" key="NOT_GATE-bmmFile"/>
+</section>

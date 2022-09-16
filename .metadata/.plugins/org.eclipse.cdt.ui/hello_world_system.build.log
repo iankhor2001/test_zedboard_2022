@@ -1,0 +1,10 @@
+23:21:22 **** Build of configuration Debug for project hello_world_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 51394 C:/Users/iankh/Documents/NTHU/8051/Project/test_zedboard/hello_world_zed_test/export/hello_world_zed_test/hello_world_zed_test.xpfm standalone_domain C:/Users/iankh/Documents/NTHU/8051/Project/test_zedboard/hello_world_system/Debug/system.bif
+sdcard_gen --xpfm C:/Users/iankh/Documents/NTHU/8051/Project/test_zedboard/hello_world_zed_test/export/hello_world_zed_test/hello_world_zed_test.xpfm --sys_config hello_world_zed_test --bif C:/Users/iankh/Documents/NTHU/8051/Project/test_zedboard/hello_world_system/Debug/system.bif --bitstream C:/Users/iankh/Documents/NTHU/8051/Project/test_zedboard/hello_world/_ide/bitstream/design_1_wrapper.bit --elf C:/Users/iankh/Documents/NTHU/8051/Project/test_zedboard/hello_world/Debug/hello_world.elf,ps7_cortexa9_0
+creating BOOT.BIN using C:/Users/iankh/Documents/NTHU/8051/Project/test_zedboard/hello_world/_ide/bitstream/design_1_wrapper.bit
+Running C:/Xilinx/Vitis/2020.1/bin/bootgen  -image C:/Users/iankh/Documents/NTHU/8051/Project/test_zedboard/hello_world_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+23:21:41 Build Finished (took 18s.992ms)
+
